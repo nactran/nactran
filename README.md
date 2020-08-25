@@ -1,11 +1,14 @@
+⬜️⬜️⬜️⬜️⬜️
+🟥🟥🟥🟥🟥
+⬜️⬜️⬜️⬜️⬜️
 # 👋 About Me
 ### PTAN 
 Plevium TAN
 
-### Education
-* Bachelor of Management, Peking University. (Graduated in 2020)
+### 👨‍🎓Education
+* 📚 Bachelor of Management, Peking University. (Graduated in 2020)
 
-### (Natural) Language Skill 
+### 🎙(Natural) Language Skill 
 * ZH
   * CMN
   * YUE
@@ -14,7 +17,7 @@ Plevium TAN
 * EN
 * JA
 
-### Contact Me
+### 📧 Contact Me
 * e-mail: pleviumtan@gmail.com
 
 ------------------------------
