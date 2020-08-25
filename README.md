@@ -1,11 +1,11 @@
 # 👋 About Me
-## PTAN 
+### PTAN 
 Plevium TAN
 
-## Education
+### Education
 * Bachelor of Management, Peking University. (Graduated in 2020)
 
-## (Natural) Language Skill 
+### (Natural) Language Skill 
 * ZH
   * CMN
   * YUE
@@ -14,8 +14,10 @@ Plevium TAN
 * EN
 * JA
 
-## Contact Me
+### Contact Me
 * e-mail: pleviumtan@gmail.com
+
+------------------------------
 
 [![](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=yiruka114514&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=yiruka114514&show_icons=true&count_private=true)  
 
