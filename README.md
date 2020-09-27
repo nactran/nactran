@@ -1,10 +1,6 @@
 ⬜️⬜️⬜️⬜️⬜️  
 🟥🟥🟥🟥🟥  
 ⬜️⬜️⬜️⬜️⬜️  
-# 👋 About Me
-### PTAN 
-Plevium TAN
-
 ### 👨‍🎓Education
 * 📚 Bachelor of Management, Peking University. (Graduated in 2020)
 
