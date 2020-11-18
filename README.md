@@ -4,7 +4,7 @@
 ### 👨‍🎓Education
 * 📚 Bachelor of Management, Peking University. (Graduated in 2020)
 
-### 🎙(Natural) Language Skill 
+### 🎙 Natural Language Skill 
 * ZH
   * CMN
   * YUE
@@ -12,6 +12,11 @@
 
 * EN
 * JA
+
+### ⌨️ Programming Language Skill
+* Javascript  
+* Python 3  
+* C++ (only for Leetcode)  
 
 ### 📧 Contact Me
 * e-mail: pleviumtan@gmail.com
