@@ -1,6 +1,3 @@
-⬜️⬜️⬜️⬜️⬜️  
-🟥🟥🟥🟥🟥  
-⬜️⬜️⬜️⬜️⬜️  
 ### 👨‍🎓Education
 * 📚 Bachelor of Management, Peking University. (Graduated in 2020)
 
