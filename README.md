@@ -11,7 +11,7 @@
 * JA
 
 ### ⌨️ Programming Language Skill
-* Javascript  
+* Javascript/TypeScript
 * Python 3  
 * C++ (only for Leetcode)  
 
