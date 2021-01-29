@@ -1,5 +1,11 @@
-### 👨‍🎓Education
-* 📚 Bachelor of Management, Peking University. (Graduated in 2020)
+### 👨‍🌾Working Experience
+* Tencent IEG (internship)
+ * 2019.6 - 2019.8
+ * Game Designer
+ 
+* ByteDance
+ * 2021.1 - 2021.3
+ * Frontend Developer
 
 ### 🎙 Natural Language Skill 
 * ZH
