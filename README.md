@@ -3,7 +3,7 @@
   * 2019.6 - 2019.8
   * Game Designer
  
-* ByteDance
+* ByteDance (internship)
   * 2021.1 - 2021.3
   * Frontend Developer
 
