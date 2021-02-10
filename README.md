@@ -1,11 +1,11 @@
 ### 👨‍🌾Working Experience
-* Tencent IEG (internship)
-  * 2019.6 - 2019.8
-  * Game Designer
- 
 * ByteDance (internship)
   * 2021.1 - 2021.3
   * Frontend Developer
+  
+* Tencent IEG (internship)
+  * 2019.6 - 2019.8
+  * Game Designer
 
 ### 🎙 Natural Language Skill 
 * ZH
