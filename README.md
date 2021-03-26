@@ -1,11 +1,13 @@
 ### 👨‍🌾Working Experience
 * ByteDance (internship)
   * 2021.1 - 2021.3
-  * Frontend Developer
-  
+  * Web Frontend SDE
+  * `React.js`, `Vue.js`, `TypeScript`
+
 * Tencent IEG (internship)
   * 2019.6 - 2019.8
   * Game Designer
+  * `C#`, `Unity`
 
 ### 🎙 Natural Language Skill 
 * ZH
