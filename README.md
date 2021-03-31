@@ -9,16 +9,16 @@
   * Game Designer
   * `C#`, `Unity`
 
-### 🎙 Natural Language Skill 
+### 🎙 Feel Free to Talk with Me in
 * ZH
-  * CMN
-  * YUE
-  * NAN
+  * CMN Mandarin
+  * YUE Cantonese
+  * NAN Taiwanese Hokkien
 
 * EN
 * JA
 
-### ⌨️ Programming Language Skill
+### ⌨️ Programming Languages
 * Javascript/TypeScript
 * Python 3  
 * C++ (only for Leetcode)  
