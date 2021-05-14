@@ -1,30 +1,4 @@
-### 👨‍🌾Working Experience
-* ByteDance (internship)
-  * 2021.1 - 2021.3
-  * Web Frontend SDE
-  * `React.js`, `Vue.js`, `TypeScript`
 
-* Tencent IEG (internship)
-  * 2019.6 - 2019.8
-  * Game Designer
-  * `C#`, `Unity`
-
-### 🎙 Feel Free to Talk with Me in
-* ZH
-  * CMN Mandarin
-  * YUE Cantonese
-  * NAN Taiwanese Hokkien
-
-* EN
-* JA
-
-### ⌨️ Programming Languages
-* Javascript/TypeScript
-* Python 3  
-* C++ (only for Leetcode)  
-
-### 📧 Contact Me
-* e-mail: pleviumtan@gmail.com
 
 ------------------------------
 
